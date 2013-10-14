@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'sinatra/jsonp'
-require 'json'
 require 'thin'
 require 'pi_piper'
 
